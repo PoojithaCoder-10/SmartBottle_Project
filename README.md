@@ -27,26 +27,26 @@ Our proposed Smart Interactive Water Bottle improves upon this by focusing on hy
 to encourage timely water intake.
 
 ## Target Customer Segments:
-*Fitness Enthusiasts: Track hydration during workouts, running, and other fitness activities.
+- Fitness Enthusiasts: Track hydration during workouts, running, and other fitness activities.
 
-*Health-conscious Individuals: For those mindful of hydration as part of a balanced lifestyle.
+- Health-conscious Individuals: For those mindful of hydration as part of a balanced lifestyle.
 
-*Office Professionals: Helps busy professionals stay hydrated throughout the workday.
+- Office Professionals: Helps busy professionals stay hydrated throughout the workday.
 
-*Students: Reminders aid students in managing hydration during classes and study sessions.
+- Students: Reminders aid students in managing hydration during classes and study sessions.
 
-*Medical Needs: Supports individuals with medical conditions requiring careful water intake monitoring.
+- Medical Needs: Supports individuals with medical conditions requiring careful water intake monitoring.
 
 ## Components:
-*DHT11 Sensor: Measures temperature and humidity.
+- DHT11 Sensor: Measures temperature and humidity.
 
-*Waterproof Ultrasonic Sensor: Tracks water intake by measuring water level.
+- Waterproof Ultrasonic Sensor: Tracks water intake by measuring water level.
 
-*ModeMCU-ESP8266: Microcontroller for managing sensor data and sending notifications.
+- ModeMCU-ESP8266: Microcontroller for managing sensor data and sending notifications.
 
-*USB Cable & Connectivity Wires: For power and data connections.
+- USB Cable & Connectivity Wires: For power and data connections.
 
-*Stainless Steel Water Bottle: Durable container for holding and tracking water consumption.
+- Stainless Steel Water Bottle: Durable container for holding and tracking water consumption.
 
 ## Hardware Setup:
 Step1:Connect the DHT11 sensor to the NodeMCU-ESP8266 for temperature readings.
@@ -67,13 +67,13 @@ Step3:Write code to read data from sensors, calculate water intake, and trigger 
 Step4:Upload the code to the NodeMCU-ESP8266 and test the functionality.
 
 ## Usage:
-*Power on the Smart Water Bottle.
+- Power on the Smart Water Bottle.
 
-*Begin using the bottle as you normally would.
+- Begin using the bottle as you normally would.
 
-*Receive periodic reminders to stay hydrated based on the last recorded intake time.
+- Receive periodic reminders to stay hydrated based on the last recorded intake time.
 
-*Check daily consumption statistics via connected displays or app (if available).
+- Check daily consumption statistics via connected displays or app (if available).
 
 ## Sustainable Business Model:
 This product presents a unique combination of technology and wellness, appealing to a health-conscious audience. 
@@ -85,8 +85,8 @@ By combining technological innovation with health benefits, it addresses a socia
 This product empowers users to monitor and manage their water intake, promoting overall wellness.
 
 ## Future Enhancements:
-*Mobile App Integration: Track hydration stats and receive reminders via smartphone.
+- Mobile App Integration: Track hydration stats and receive reminders via smartphone.
 
-*AI-based Hydration Recommendations: Provide custom hydration goals based on user activity and environment.
+- AI-based Hydration Recommendations: Provide custom hydration goals based on user activity and environment.
 
-*Improved Sensors: Additional sensors to measure other relevant health metrics.
+- Improved Sensors: Additional sensors to measure other relevant health metrics.
