@@ -32,9 +32,13 @@ to encourage timely water intake.
 
 ## Components:
 *DHT11 Sensor: Measures temperature and humidity.
+
 *Waterproof Ultrasonic Sensor: Tracks water intake by measuring water level.
+
 *ModeMCU-ESP8266: Microcontroller for managing sensor data and sending notifications.
+
 *USB Cable & Connectivity Wires: For power and data connections.
+
 *Stainless Steel Water Bottle: Durable container for holding and tracking water consumption.
 
 ## Hardware Setup:
@@ -61,9 +65,7 @@ It is designed as a reusable and durable product to support long-term hydration 
 
 ## Conclusion:
 The Smart Interactive Water Bottle is a health-focused product that encourages a balanced lifestyle.
-
 By combining technological innovation with health benefits, it addresses a social need for better hydration. 
-
 This product empowers users to monitor and manage their water intake, promoting overall wellness.
 
 ## Future Enhancements:
