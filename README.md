@@ -14,8 +14,11 @@ overcome these obstacles by offering features that remind and track water consum
 
 ## Features:
 *Real-Time Water Tracking: The smart bottle uses a Waterproof Ultrasonic Sensor to measure the amount of water consumed.
+
 *Reminder Alerts: Timely alerts remind users to drink water if they haven't consumed enough within a certain time frame.
+
 *Hydration Analytics: Tracks and displays daily water consumption, average intake, and last water intake time.
+
 *Health Insights: Provides users with insights and reminders for balanced hydration based on their activity level.
 
 ## Existing Solutions & Improvement:
@@ -25,9 +28,13 @@ to encourage timely water intake.
 
 ## Target Customer Segments:
 *Fitness Enthusiasts: Track hydration during workouts, running, and other fitness activities.
+
 *Health-conscious Individuals: For those mindful of hydration as part of a balanced lifestyle.
+
 *Office Professionals: Helps busy professionals stay hydrated throughout the workday.
+
 *Students: Reminders aid students in managing hydration during classes and study sessions.
+
 *Medical Needs: Supports individuals with medical conditions requiring careful water intake monitoring.
 
 ## Components:
@@ -43,20 +50,29 @@ to encourage timely water intake.
 
 ## Hardware Setup:
 Step1:Connect the DHT11 sensor to the NodeMCU-ESP8266 for temperature readings.
+
 Step2:Attach the Waterproof Ultrasonic Sensor to measure the water level in the bottle.
+
 Step3:Connect power and data wires to the respective pins on the NodeMCU.
+
 Step4:Secure all components onto the Stainless Steel Water Bottle.
 
 ## Software Setup:
 Step1:Install the Arduino IDE for coding and uploading programs to the NodeMCU-ESP8266.
+
 Step2:Set up libraries for the DHT11 sensor and Ultrasonic sensor.
+
 Step3:Write code to read data from sensors, calculate water intake, and trigger reminders.
+
 Step4:Upload the code to the NodeMCU-ESP8266 and test the functionality.
 
 ## Usage:
 *Power on the Smart Water Bottle.
+
 *Begin using the bottle as you normally would.
+
 *Receive periodic reminders to stay hydrated based on the last recorded intake time.
+
 *Check daily consumption statistics via connected displays or app (if available).
 
 ## Sustainable Business Model:
@@ -70,5 +86,7 @@ This product empowers users to monitor and manage their water intake, promoting 
 
 ## Future Enhancements:
 *Mobile App Integration: Track hydration stats and receive reminders via smartphone.
+
 *AI-based Hydration Recommendations: Provide custom hydration goals based on user activity and environment.
+
 *Improved Sensors: Additional sensors to measure other relevant health metrics.
