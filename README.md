@@ -13,13 +13,13 @@ forgetfulness, busy schedules, or lack of awareness of its importance. This smar
 overcome these obstacles by offering features that remind and track water consumption.
 
 ## Features:
-*Real-Time Water Tracking: The smart bottle uses a Waterproof Ultrasonic Sensor to measure the amount of water consumed.
+- Real-Time Water Tracking: The smart bottle uses a Waterproof Ultrasonic Sensor to measure the amount of water consumed.
 
-*Reminder Alerts: Timely alerts remind users to drink water if they haven't consumed enough within a certain time frame.
+- Reminder Alerts: Timely alerts remind users to drink water if they haven't consumed enough within a certain time frame.
 
-*Hydration Analytics: Tracks and displays daily water consumption, average intake, and last water intake time.
+- Hydration Analytics: Tracks and displays daily water consumption, average intake, and last water intake time.
 
-*Health Insights: Provides users with insights and reminders for balanced hydration based on their activity level.
+- Health Insights: Provides users with insights and reminders for balanced hydration based on their activity level.
 
 ## Existing Solutions & Improvement:
 A previous case study of a smart water bottle incorporated sensors to measure water hardness and temperature. 
