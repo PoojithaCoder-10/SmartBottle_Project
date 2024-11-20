@@ -1,7 +1,7 @@
 # SmartBottle_Project
 
 ## Project Overview:
-This project aims to develop a Smart Interactive Water Bottle that encourages individuals to maintain optimal hydration. 
+This project aims to develop a Smart Water Bottle that encourages individuals to maintain optimal hydration. 
 By addressing psychological barriers to sufficient water intake, this smart bottle not only tracks the user's water 
 consumption but also reminds them to drink water regularly. The bottle uses sensors to measure water intake and provides 
 reminders, ultimately promoting a healthier lifestyle through improved hydration habits.
